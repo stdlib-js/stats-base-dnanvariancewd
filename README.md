@@ -247,10 +247,10 @@ console.log( v );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats/base/dvariancewd`][@stdlib/stats/base/dvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats/base/dnanvariance`][@stdlib/stats/base/dnanvariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats/base/nanvariancewd`][@stdlib/stats/base/nanvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array ignoring NaN values and using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats/base/snanvariancewd`][@stdlib/stats/base/snanvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/dvariancewd`][@stdlib/stats/base/dvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/dnanvariance`][@stdlib/stats/base/dnanvariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-base/nanvariancewd`][@stdlib/stats/base/nanvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array ignoring NaN values and using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/snanvariancewd`][@stdlib/stats/base/snanvariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using Welford's algorithm.</span>
 
 </section>
 
