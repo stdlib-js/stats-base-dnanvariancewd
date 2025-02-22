@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
+## Unreleased (2025-02-22)
+
+<section class="features">
+
+### Features
+
+-   [`0f30934`](https://github.com/stdlib-js/stdlib/commit/0f30934d486c023154b676c08392e5d0134d130f) - add C ndarray interface and refactor implementation for `stats/base/dnanvariancewd` [(#5316)](https://github.com/stdlib-js/stdlib/pull/5316)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`0f30934`](https://github.com/stdlib-js/stdlib/commit/0f30934d486c023154b676c08392e5d0134d130f) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanvariancewd` [(#5316)](https://github.com/stdlib-js/stdlib/pull/5316) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`ed24eef`](https://github.com/stdlib-js/stdlib/commit/ed24eef61a449aaa7e26787127ee49858e0bb08b) - **refactor:** update `stats/base/dnanvariancewd` native addon from C++ to C [(#4202)](https://github.com/stdlib-js/stdlib/pull/4202) _(by Neeraj Pathak)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,11 +39,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
